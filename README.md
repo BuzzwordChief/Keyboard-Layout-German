@@ -1,4 +1,4 @@
-# Keyboard-Layout-German
+# Keyboard Layout in German without stupid accents
 
 German keyboard layout for MacOS without the need to press ```SPACE``` everytime you want to type ~ or ^.
 I was not motivated enough to add all secondary keybindings to the layout feel free to make a pull request.
